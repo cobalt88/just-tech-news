@@ -33,7 +33,7 @@
  - - -
  If you would like to contribute to the project, feel free to do so. Some things to keep in mind:
 
- 1. Please use structured/formatted commit messages that adhere to the following guideline: git commit -m "{the date of the commit}" -m "{detailed description of the changes}" -m "{who is making the commit}"
+ 1. Please use structured/formatted commit messages that adhere to the following guideline: git commit -m "{ther version you are working from, ie, 1.1.x}" -m "{detailed description of the changes}" -m "{this bit is optional but who it is and the date}"
  for now this is just a personal preference to keep the repository nice and tidy, eventually these guidelines will be updated to reflect whatever version nomenclature i decide to use. 
 
  2. Do Not open a pull request on the main branch, it will be denied. period. Start a new feature branch or open a pull request to develop so your contributions can be reviewed first. 
